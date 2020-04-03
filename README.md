@@ -1,7 +1,7 @@
 # DvLIR-Check-Plugin
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/inexio/dvlir-check-plugin)](https://goreportcard.com/report/github.com/inexio/dvlir-check-plugin)
-[![GitHub license](https://img.shields.io/badge/license-BSD-blue.svg)](https://github.com/inexio/dvlir-check-plugin/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-BSD-blue.svg)](https://github.com/inexio/dvlir-check-plugin/blob/master/LICENSE)
 [![GitHub code style](https://img.shields.io/badge/code%20style-uber--go-brightgreen)](https://github.com/uber-go/guide/blob/master/style.md)
 [![GoDoc doc](https://img.shields.io/badge/godoc-reference-blue)](https://godoc.org/github.com/inexio/dvlir-check-plugin)
 
