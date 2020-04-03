@@ -27,3 +27,20 @@ To install, use `go get` or `git clone`:
 or 
 
       git clone https://github.com/inexio/DvLIR-Check-Plugin.git
+
+## Getting Help
+
+If there are any problems or something does not work as intended, open an issue on GitHub.
+
+## Contribution
+
+Contributions to the project are welcome.
+
+We are looking forward to your bug reports, suggestions and fixes.
+
+If you want to make any contributions make sure your go report does match up with our projects score of **A+**.
+
+When you contribute make sure your code is conform to the **uber-go** coding style.
+
+Happy Coding!
+
