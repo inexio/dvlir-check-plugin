@@ -1,0 +1,21 @@
+# .goreleaser.yml
+before:
+  hooks:
+  - go mod download
+
+builds:
+  -
+    id: "check-dvlir"
+    dir: ./
+    main: ./main.go
+    binary: check-dvlir
+    
+archives:
+  -
+    builds:
+    - check-dvlir
+    
+    replacements:
+      amd64: 64-bit
+      386: 32-bit
+      darwin: macOS
