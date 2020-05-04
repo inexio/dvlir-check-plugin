@@ -13,7 +13,7 @@ Monitoring check plugin for the [dvlir-restapi-go-client](https://github.com/ine
    main [OPTIONS]
    
    Application Options:
-    -i, --ipAddress= The username of the dvlir adapter
+    -i, --ipAddress= The IP address of the dvlir adapter
     -p, --password= The password of the dvlir adapter
     -P, --port=     The port of the dvlir adapter, default is 80
 ```
